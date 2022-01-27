@@ -1,0 +1,41 @@
+/* header navber >> start */
+.navbar-style{
+    background: rgba(0, 0, 0, 0.2);
+}
+.collapse a{
+    color: #fff;
+    margin-right: 5px;
+    font-weight: bold;
+    transition: .4s;
+}
+.collapse a:hover{
+    background: #77E4D4;
+    color: #fff;
+    border-radius: 8px;
+    transform: scale(1.1);
+}
+/*header navber >> end */
+/* header content >> start */
+.row .content-style{
+    margin-top:9%;
+}
+.img-style{
+    width: 500px;
+    height: auto;
+    margin-top:9%;
+}
+/* header content >> end */
+/* card start */
+#img-style{
+    width: auto;
+    height: 200px;
+}
+/*  card end */
+/* reviews start */
+.img-r-style{
+    width: 150px;
+    height: auto;
+    padding-right:10%;
+}
+
+/* reviews end */
